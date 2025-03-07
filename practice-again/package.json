@@ -1,0 +1,15 @@
+{
+  "name": "practice-again",
+  "version": "1.0.0",
+  "description": "i am currently learn backend development by younus bhai",
+  "license": "ISC",
+  "author": "Haseeb Ur Rehman",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
