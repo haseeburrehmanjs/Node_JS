@@ -1,0 +1,24 @@
+{
+  "name": "learn-backend",
+  "version": "1.0.0",
+  "description": "i am learn backend by younus bhai",
+  "homepage": "https://github.com/haseeburrehmanjs/Node_JS#readme",
+  "bugs": {
+    "url": "https://github.com/haseeburrehmanjs/Node_JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haseeburrehmanjs/Node_JS.git"
+  },
+  "license": "ISC",
+  "author": "haseeb ur rehman",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "slugify": "^1.6.6"
+  }
+}
